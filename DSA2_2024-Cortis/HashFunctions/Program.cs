@@ -15,3 +15,4 @@ string studentName = "Lee";
 int arrayPos = Math.Abs(studentName.GetHashCode()) % arrayLength;
 Console.WriteLine(arrayPos);
 Console.ReadLine();
+
