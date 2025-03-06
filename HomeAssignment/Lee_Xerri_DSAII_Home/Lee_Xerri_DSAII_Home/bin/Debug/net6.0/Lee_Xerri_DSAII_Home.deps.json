@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lee_Xerri_DSAII_Home/1.0.0": {
+        "runtime": {
+          "Lee_Xerri_DSAII_Home.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lee_Xerri_DSAII_Home/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

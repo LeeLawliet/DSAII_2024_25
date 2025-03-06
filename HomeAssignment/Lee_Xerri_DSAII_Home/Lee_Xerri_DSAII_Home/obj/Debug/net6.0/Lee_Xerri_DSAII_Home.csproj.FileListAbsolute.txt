@@ -1,0 +1,14 @@
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\Lee_Xerri_DSAII_Home.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\Lee_Xerri_DSAII_Home.AssemblyInfoInputs.cache
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\Lee_Xerri_DSAII_Home.AssemblyInfo.cs
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\Lee_Xerri_DSAII_Home.csproj.CoreCompileInputs.cache
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\bin\Debug\net6.0\Lee_Xerri_DSAII_Home.exe
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\bin\Debug\net6.0\Lee_Xerri_DSAII_Home.deps.json
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\bin\Debug\net6.0\Lee_Xerri_DSAII_Home.runtimeconfig.json
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\bin\Debug\net6.0\Lee_Xerri_DSAII_Home.dll
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\bin\Debug\net6.0\Lee_Xerri_DSAII_Home.pdb
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\Lee_Xerri_DSAII_Home.dll
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\refint\Lee_Xerri_DSAII_Home.dll
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\Lee_Xerri_DSAII_Home.pdb
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\Lee_Xerri_DSAII_Home.genruntimeconfig.cache
+E:\Repos\DSAII_2024_25\HomeAssignment\Lee_Xerri_DSAII_Home\Lee_Xerri_DSAII_Home\obj\Debug\net6.0\ref\Lee_Xerri_DSAII_Home.dll
